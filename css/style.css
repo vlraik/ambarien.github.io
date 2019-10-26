@@ -306,7 +306,7 @@ button:focus {
 }
 
 .home_banner_area .banner_inner .overlay {
-  background: url(../img/frontpage.jpg) no-repeat scroll center center;
+  background: url("../img/output2.gif") no-repeat scroll center center;
   position: absolute;
   left: 0;
   right: 0;
