@@ -200,7 +200,7 @@ button:focus {
     left: 0px;
     min-width: 200px;
     text-align: left;
-    opacity: 0;
+    opacity: 0.5;
     -webkit-transition: all 300ms ease-in;
     -o-transition: all 300ms ease-in;
     transition: all 300ms ease-in;
@@ -356,7 +356,7 @@ button:focus {
 
 .blog_banner .banner_inner .overlay {
   background: url(../img/frontpage.jpg) no-repeat scroll center center;
-  opacity: .5;
+  opacity: 1;
 }
 
 .blog_banner .banner_inner .blog_b_text {
