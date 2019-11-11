@@ -392,6 +392,746 @@ button:focus {
   min-height: 400px;
 }
 
+.ayesha_banner_area {
+  position: relative;
+  z-index: 1;
+  min-height: 400px;
+}
+
+.ayesha_banner_area .banner_inner {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  min-height: 400px;
+}
+
+.ayesha_banner_area .banner_inner .overlay {
+  background: url(../img/film/Ayesha/Still_6.png) no-repeat scroll center center;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  width:100%;
+  bottom: 0;
+  z-index: -1;
+}
+
+.ayesha_banner_area .banner_inner .banner_content h2 {
+  font-weight: bold;
+  color: #fff;
+  font-size: 48px;
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 15px;
+  padding-top: 60px;
+}
+
+.ayesha_banner_area .banner_inner .banner_content .page_link a {
+  font-size: 14px;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  margin-right: 32px;
+  position: relative;
+}
+
+.ayesha_banner_area .banner_inner .banner_content .page_link a:before {
+  content: "\e87a";
+  font-family: 'Linearicons-Free';
+  position: absolute;
+  right: -25px;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.ayesha_banner_area .banner_inner .banner_content .page_link a:last-child {
+  margin-right: 0px;
+}
+
+.ayesha_banner_area .banner_inner .banner_content .page_link a:last-child:before {
+  display: none;
+}
+
+.ayesha_banner_area .banner_inner .banner_content .page_link a:hover {
+  color: #fcdc00;
+}
+
+
+.ayesha_banner_area {
+  position: relative;
+  z-index: 1;
+  min-height: 400px;
+}
+
+.ayesha_banner_area .banner_inner {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  min-height: 400px;
+}
+
+.ayesha_banner_area .banner_inner .overlay {
+  background: url(../img/film/Ayesha/Still_6.png) no-repeat scroll center center;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  width:100%;
+  bottom: 0;
+  z-index: -1;
+}
+
+.ayesha_banner_area .banner_inner .banner_content h2 {
+  font-weight: bold;
+  color: #fff;
+  font-size: 48px;
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 15px;
+  padding-top: 60px;
+}
+
+.ayesha_banner_area .banner_inner .banner_content .page_link a {
+  font-size: 14px;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  margin-right: 32px;
+  position: relative;
+}
+
+.ayesha_banner_area .banner_inner .banner_content .page_link a:before {
+  content: "\e87a";
+  font-family: 'Linearicons-Free';
+  position: absolute;
+  right: -25px;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.ayesha_banner_area .banner_inner .banner_content .page_link a:last-child {
+  margin-right: 0px;
+}
+
+.ayesha_banner_area .banner_inner .banner_content .page_link a:last-child:before {
+  display: none;
+}
+
+.ayesha_banner_area .banner_inner .banner_content .page_link a:hover {
+  color: #fcdc00;
+}
+
+
+
+
+
+
+.birdwoman_banner_area {
+  position: relative;
+  z-index: 1;
+  min-height: 400px;
+}
+
+.birdwoman_banner_area .banner_inner {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  min-height: 400px;
+}
+
+.birdwoman_banner_area .banner_inner .overlay {
+  background: url(../img/film/birdwoman/Still_2.jpg) no-repeat scroll center center;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  width:100%;
+  bottom: 0;
+  z-index: -1;
+}
+
+.birdwoman_banner_area .banner_inner .banner_content h2 {
+  font-weight: bold;
+  color: #fff;
+  font-size: 48px;
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 15px;
+  padding-top: 60px;
+}
+
+.birdwoman_banner_area .banner_inner .banner_content .page_link a {
+  font-size: 14px;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  margin-right: 32px;
+  position: relative;
+}
+
+.birdwoman_banner_area .banner_inner .banner_content .page_link a:before {
+  content: "\e87a";
+  font-family: 'Linearicons-Free';
+  position: absolute;
+  right: -25px;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.birdwoman_banner_area .banner_inner .banner_content .page_link a:last-child {
+  margin-right: 0px;
+}
+
+.birdwoman_banner_area .banner_inner .banner_content .page_link a:last-child:before {
+  display: none;
+}
+
+.birdwoman_banner_area .banner_inner .banner_content .page_link a:hover {
+  color: #fcdc00;
+}
+
+
+
+
+
+.play_banner_area {
+  position: relative;
+  z-index: 1;
+  min-height: 400px;
+}
+
+.play_banner_area .banner_inner {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  min-height: 400px;
+}
+
+.play_banner_area .banner_inner .overlay {
+  background: url(../img/film/play/1.jpg) no-repeat scroll center center;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  width:100%;
+  bottom: 0;
+  z-index: -1;
+}
+
+.play_banner_area .banner_inner .banner_content h2 {
+  font-weight: bold;
+  color: #fff;
+  font-size: 48px;
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 15px;
+  padding-top: 60px;
+}
+
+.play_banner_area .banner_inner .banner_content .page_link a {
+  font-size: 14px;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  margin-right: 32px;
+  position: relative;
+}
+
+.play_banner_area .banner_inner .banner_content .page_link a:before {
+  content: "\e87a";
+  font-family: 'Linearicons-Free';
+  position: absolute;
+  right: -25px;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.play_banner_area .banner_inner .banner_content .page_link a:last-child {
+  margin-right: 0px;
+}
+
+.play_banner_area .banner_inner .banner_content .page_link a:last-child:before {
+  display: none;
+}
+
+.play_banner_area .banner_inner .banner_content .page_link a:hover {
+  color: #fcdc00;
+}
+
+
+
+
+.theamericandream_banner_area {
+  position: relative;
+  z-index: 1;
+  min-height: 400px;
+}
+
+.theamericandream_banner_area .banner_inner {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  min-height: 400px;
+}
+
+.theamericandream_banner_area .banner_inner .overlay {
+  background: url(../img/film/theamericandream/5.jpg) no-repeat scroll center center;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  width:100%;
+  bottom: 0;
+  z-index: -1;
+}
+
+.theamericandream_banner_area .banner_inner .banner_content h2 {
+  font-weight: bold;
+  color: #fff;
+  font-size: 48px;
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 15px;
+  padding-top: 60px;
+}
+
+.theamericandream_banner_area .banner_inner .banner_content .page_link a {
+  font-size: 14px;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  margin-right: 32px;
+  position: relative;
+}
+
+.theamericandream_banner_area .banner_inner .banner_content .page_link a:before {
+  content: "\e87a";
+  font-family: 'Linearicons-Free';
+  position: absolute;
+  right: -25px;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.theamericandream_banner_area .banner_inner .banner_content .page_link a:last-child {
+  margin-right: 0px;
+}
+
+.theamericandream_banner_area .banner_inner .banner_content .page_link a:last-child:before {
+  display: none;
+}
+
+.theamericandream_banner_area .banner_inner .banner_content .page_link a:hover {
+  color: #fcdc00;
+}
+
+
+
+
+.theghettogirl_banner_area {
+  position: relative;
+  z-index: 1;
+  min-height: 400px;
+}
+
+.theghettogirl_banner_area .banner_inner {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  min-height: 400px;
+}
+
+.theghettogirl_banner_area .banner_inner .overlay {
+  background: url(../img/film/theghettogirl/graffiti.jpg) no-repeat scroll center center;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  width:100%;
+  bottom: 0;
+  z-index: -1;
+}
+
+.theghettogirl_banner_area .banner_inner .banner_content h2 {
+  font-weight: bold;
+  color: #fff;
+  font-size: 48px;
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 15px;
+  padding-top: 60px;
+}
+
+.theghettogirl_banner_area .banner_inner .banner_content .page_link a {
+  font-size: 14px;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  margin-right: 32px;
+  position: relative;
+}
+
+.theghettogirl_banner_area .banner_inner .banner_content .page_link a:before {
+  content: "\e87a";
+  font-family: 'Linearicons-Free';
+  position: absolute;
+  right: -25px;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.theghettogirl_banner_area .banner_inner .banner_content .page_link a:last-child {
+  margin-right: 0px;
+}
+
+.theghettogirl_banner_area .banner_inner .banner_content .page_link a:last-child:before {
+  display: none;
+}
+
+.theghettogirl_banner_area .banner_inner .banner_content .page_link a:hover {
+  color: #fcdc00;
+}
+
+
+
+
+.outsideamosque_banner_area {
+  position: relative;
+  z-index: 1;
+  min-height: 400px;
+}
+
+.outsideamosque_banner_area .banner_inner {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  min-height: 400px;
+}
+
+.outsideamosque_banner_area .banner_inner .overlay {
+  background: url(../img/film/outsideamosque/Mosque.jpg) no-repeat scroll center center;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  width:100%;
+  bottom: 0;
+  z-index: -1;
+}
+
+.outsideamosque_banner_area .banner_inner .banner_content h2 {
+  font-weight: bold;
+  color: #fff;
+  font-size: 48px;
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 15px;
+  padding-top: 60px;
+}
+
+.outsideamosque_banner_area .banner_inner .banner_content .page_link a {
+  font-size: 14px;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  margin-right: 32px;
+  position: relative;
+}
+
+.outsideamosque_banner_area .banner_inner .banner_content .page_link a:before {
+  content: "\e87a";
+  font-family: 'Linearicons-Free';
+  position: absolute;
+  right: -25px;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.outsideamosque_banner_area .banner_inner .banner_content .page_link a:last-child {
+  margin-right: 0px;
+}
+
+.outsideamosque_banner_area .banner_inner .banner_content .page_link a:last-child:before {
+  display: none;
+}
+
+.outsideamosque_banner_area .banner_inner .banner_content .page_link a:hover {
+  color: #fcdc00;
+}
+
+
+
+
+.wcsom_banner_area {
+  position: relative;
+  z-index: 1;
+  min-height: 400px;
+}
+
+.wcsom_banner_area .banner_inner {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  min-height: 400px;
+}
+
+.wcsom_banner_area .banner_inner .overlay {
+  background: url(../img/film/wcsm/Arshi.jpg) no-repeat scroll center center;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  width:100%;
+  bottom: 0;
+  z-index: -1;
+}
+
+.wcsom_banner_area .banner_inner .banner_content h2 {
+  font-weight: bold;
+  color: #fff;
+  font-size: 48px;
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 15px;
+  padding-top: 60px;
+}
+
+.wcsom_banner_area .banner_inner .banner_content .page_link a {
+  font-size: 14px;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  margin-right: 32px;
+  position: relative;
+}
+
+.wcsom_banner_area .banner_inner .banner_content .page_link a:before {
+  content: "\e87a";
+  font-family: 'Linearicons-Free';
+  position: absolute;
+  right: -25px;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.wcsom_banner_area .banner_inner .banner_content .page_link a:last-child {
+  margin-right: 0px;
+}
+
+.wcsom_banner_area .banner_inner .banner_content .page_link a:last-child:before {
+  display: none;
+}
+
+.wcsom_banner_area .banner_inner .banner_content .page_link a:hover {
+  color: #fcdc00;
+}
+
+
+
+
+
+.fwnr_banner_area {
+  position: relative;
+  z-index: 1;
+  min-height: 400px;
+}
+
+.fwnr_banner_area .banner_inner {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  min-height: 400px;
+}
+
+.fwnr_banner_area .banner_inner .overlay {
+  background: url(../img/film/fwnr/Latika.jpg) no-repeat scroll center center;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  width:100%;
+  bottom: 0;
+  z-index: -1;
+}
+
+.fwnr_banner_area .banner_inner .banner_content h2 {
+  font-weight: bold;
+  color: #fff;
+  font-size: 48px;
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 15px;
+  padding-top: 60px;
+}
+
+.fwnr_banner_area .banner_inner .banner_content .page_link a {
+  font-size: 14px;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  margin-right: 32px;
+  position: relative;
+}
+
+.fwnr_banner_area .banner_inner .banner_content .page_link a:before {
+  content: "\e87a";
+  font-family: 'Linearicons-Free';
+  position: absolute;
+  right: -25px;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.fwnr_banner_area .banner_inner .banner_content .page_link a:last-child {
+  margin-right: 0px;
+}
+
+.fwnr_banner_area .banner_inner .banner_content .page_link a:last-child:before {
+  display: none;
+}
+
+.fwnr_banner_area .banner_inner .banner_content .page_link a:hover {
+  color: #fcdc00;
+}
+
+
+
+
+.elsewhere_banner_area {
+  position: relative;
+  z-index: 1;
+  min-height: 400px;
+}
+
+.elsewhere_banner_area .banner_inner {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  min-height: 400px;
+}
+
+.elsewhere_banner_area .banner_inner .overlay {
+  background: url(../img/film/elsewhere/2.jpg) no-repeat scroll center center;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  width:100%;
+  bottom: 0;
+  z-index: -1;
+}
+
+.elsewhere_banner_area .banner_inner .banner_content h2 {
+  font-weight: bold;
+  color: #fff;
+  font-size: 48px;
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 15px;
+  padding-top: 60px;
+}
+
+.elsewhere_banner_area .banner_inner .banner_content .page_link a {
+  font-size: 14px;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  margin-right: 32px;
+  position: relative;
+}
+
+.elsewhere_banner_area .banner_inner .banner_content .page_link a:before {
+  content: "\e87a";
+  font-family: 'Linearicons-Free';
+  position: absolute;
+  right: -25px;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.elsewhere_banner_area .banner_inner .banner_content .page_link a:last-child {
+  margin-right: 0px;
+}
+
+.elsewhere_banner_area .banner_inner .banner_content .page_link a:last-child:before {
+  display: none;
+}
+
+.elsewhere_banner_area .banner_inner .banner_content .page_link a:hover {
+  color: #fcdc00;
+}
+
+
+
+
+
+.adsitas_banner_area {
+  position: relative;
+  z-index: 1;
+  min-height: 400px;
+}
+
+.adsitas_banner_area .banner_inner {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  min-height: 400px;
+}
+
+.adsitas_banner_area .banner_inner .overlay {
+  background: url(../img/film/adsitas/capture.png) no-repeat scroll center center;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  width:100%;
+  bottom: 0;
+  z-index: -1;
+}
+
+.adsitas_banner_area .banner_inner .banner_content h2 {
+  font-weight: bold;
+  color: #fff;
+  font-size: 48px;
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 15px;
+  padding-top: 60px;
+}
+
+.adsitas_banner_area .banner_inner .banner_content .page_link a {
+  font-size: 14px;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  margin-right: 32px;
+  position: relative;
+}
+
+.adsitas_banner_area .banner_inner .banner_content .page_link a:before {
+  content: "\e87a";
+  font-family: 'Linearicons-Free';
+  position: absolute;
+  right: -25px;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.adsitas_banner_area .banner_inner .banner_content .page_link a:last-child {
+  margin-right: 0px;
+}
+
+.adsitas_banner_area .banner_inner .banner_content .page_link a:last-child:before {
+  display: none;
+}
+
+.adsitas_banner_area .banner_inner .banner_content .page_link a:hover {
+  color: #fcdc00;
+}
+
+
+
+
 .banner_area .banner_inner .overlay {
   background: url(../img/frontpage.jpg) no-repeat scroll center center;
   position: absolute;
